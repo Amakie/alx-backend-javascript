@@ -1,3 +1,4 @@
+/* array values */
 export default function hasValuesFromArray(set, list) {
   let verdict = true;
   list.map((x) => {
